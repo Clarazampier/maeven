@@ -31,4 +31,4 @@ jobs:
       run: mvn -B package --file pom.xml
       
     - name: Compilar no JAVA
-      run: mnv compile
+      run: mvn compile
